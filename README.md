@@ -31,40 +31,8 @@ Pinecone (vector embeddings)
 
 SQLite (local document storage)
 
-📁 Project Structure
-/campus-knowledge-engine
-│── app.py               # Main Streamlit UI
-│── rag_pipeline.py      # RAG logic
-│── documents/           # University docs
-│── embeddings/          # Vector embeddings storage
-│── utils/               # Helper functions
-│── requirements.txt     # Dependencies
-│── README.md            # Documentation
-
-▶️ How to Run
-
-Clone the repository:
-
-git clone <repo-url>
-cd campus-knowledge-engine
 
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Set your API keys:
-
-export OPENAI_API_KEY="your_key"
-export PINECONE_API_KEY="your_key"
-
-
-Run the app:
-
-streamlit run app.py
-
-🔗 Project Link
 
 (Insert your link here)
 
