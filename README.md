@@ -48,28 +48,28 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 
 ---
 ### 📌 Dashboard
-![Dashboard]
+
 ![WhatsApp Image 2025-09-22 at 22 51 17_42586e9c](https://github.com/user-attachments/assets/2fbe330f-7856-4157-909a-486c8d4a2cc6)
 *Main interface showing the CollegeBot ready to answer questions*
 <br><br>
 
 ---
 ### 📌 Chat Interface
-![Chat Interface]
+
 ![WhatsApp Image 2025-09-22 at 22 51 29_04a4ba49](https://github.com/user-attachments/assets/8f76190d-dc2e-4950-9500-cb1ffe3afb84)
 *Natural language conversation with AI assistant*
 <br><br>
 
 ---
 ### 📌 Query Results
-![Query Results]
+
 ![WhatsApp Image 2025-09-22 at 22 51 16_d3e408cc](https://github.com/user-attachments/assets/0d686fda-e004-4b47-9f06-2f4466e45b96)
 *AI-powered answers with relevant information from university documents*
 <br><br>
 
 ---
 ### 📌 User Profile Page
-![User Profile]
+
 ![WhatsApp Image 2025-09-22 at 22 51 18_ba350ebe](https://github.com/user-attachments/assets/d3b507db-ee4f-4258-b264-ca4a997369a6)
 
 *Manage your profile*
@@ -119,20 +119,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 👥 Contributors
-- **Narendra** - Lead Developer
 
 
----
-
-## 📞 Contact
-For questions or suggestions, feel free to reach out:
-- **Email:** narendrabapanapalle26@gmail.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-
----
 
 **Built with ❤️ for smarter campuses**
