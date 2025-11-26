@@ -40,7 +40,7 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 ## 🖼️ Screenshots of the Project
 
 ### 📌 Login Page
-![Login Page]
+
 ![WhatsApp Image 2025-09-22 at 22 50 40_842fe0ea](https://github.com/user-attachments/assets/645063ab-56af-4159-9689-da67af079ca3)
 
 *Secure authentication for students and faculty*
