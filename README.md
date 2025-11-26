@@ -10,10 +10,6 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 ----
 <br>
 
-![Dashboard Page]
-![WhatsApp Image 2025-09-22 at 22 51 16_f346ea4d](https://github.com/user-attachments/assets/641294ee-31ef-4d1a-bd38-0c5d7cf8ce10)
-
-
 ---
 
 ## 🎯 Features
@@ -47,19 +43,25 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 ## 🖼️ Screenshots of the Project
 
 ### 📌 Login Page
-![Login Page](placeholder-login-image)
+![Login Page]
+![WhatsApp Image 2025-09-22 at 22 50 40_842fe0ea](https://github.com/user-attachments/assets/645063ab-56af-4159-9689-da67af079ca3)
+
 *Secure authentication for students and faculty*
 <br><br>
 
 ---
 ### 📌 Dashboard
-![Dashboard](placeholder-dashboard-image)
+![Dashboard]
+![WhatsApp Image 2025-09-22 at 22 51 29_6563cf3f](https://github.com/user-attachments/assets/b49620eb-2b9d-48b0-bcb0-447ec2625df2)
+
 *Main interface showing the CollegeBot ready to answer questions*
 <br><br>
 
 ---
 ### 📌 Chat Interface
-![Chat Interface](placeholder-chat-image)
+![Chat Interface]
+![WhatsApp Image 2025-09-22 at 22 51 16_d3e408cc](https://github.com/user-attachments/assets/0d686fda-e004-4b47-9f06-2f4466e45b96)
+
 *Natural language conversation with AI assistant*
 <br><br>
 
