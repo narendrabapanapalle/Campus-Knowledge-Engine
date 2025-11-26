@@ -11,6 +11,8 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 <br>
 
 ![Dashboard Page](placeholder-dashboard-image)
+![WhatsApp Image 2025-09-22 at 22 51 16_f346ea4d](https://github.com/user-attachments/assets/641294ee-31ef-4d1a-bd38-0c5d7cf8ce10)
+
 
 ---
 
