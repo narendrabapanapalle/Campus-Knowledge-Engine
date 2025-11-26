@@ -8,9 +8,6 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 
 ----
 ----
-<br>
-
----
 
 ## 🎯 Features
 ✅ **User & Admin Authentication**
@@ -52,41 +49,33 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 ---
 ### 📌 Dashboard
 ![Dashboard]
-![WhatsApp Image 2025-09-22 at 22 51 29_6563cf3f](https://github.com/user-attachments/assets/b49620eb-2b9d-48b0-bcb0-447ec2625df2)
-
+![WhatsApp Image 2025-09-22 at 22 51 17_42586e9c](https://github.com/user-attachments/assets/2fbe330f-7856-4157-909a-486c8d4a2cc6)
 *Main interface showing the CollegeBot ready to answer questions*
 <br><br>
 
 ---
 ### 📌 Chat Interface
 ![Chat Interface]
-![WhatsApp Image 2025-09-22 at 22 51 16_d3e408cc](https://github.com/user-attachments/assets/0d686fda-e004-4b47-9f06-2f4466e45b96)
-
+![WhatsApp Image 2025-09-22 at 22 51 29_04a4ba49](https://github.com/user-attachments/assets/8f76190d-dc2e-4950-9500-cb1ffe3afb84)
 *Natural language conversation with AI assistant*
 <br><br>
 
 ---
 ### 📌 Query Results
-![Query Results](placeholder-results-image)
+![Query Results]
+![WhatsApp Image 2025-09-22 at 22 51 16_d3e408cc](https://github.com/user-attachments/assets/0d686fda-e004-4b47-9f06-2f4466e45b96)
 *AI-powered answers with relevant information from university documents*
 <br><br>
 
 ---
 ### 📌 User Profile Page
-![User Profile](placeholder-profile-image)
-*Manage your profile and view chat history*
+![User Profile]
+![WhatsApp Image 2025-09-22 at 22 51 18_ba350ebe](https://github.com/user-attachments/assets/d3b507db-ee4f-4258-b264-ca4a997369a6)
+
+*Manage your profile*
 <br><br>
 
----
-### 📌 Document Management (Admin)
-![Admin Panel](placeholder-admin-image)
-*Admin interface for uploading and managing university documents*
-<br><br>
-
----
-### 📌 Mobile Responsive View
-![Mobile View](placeholder-mobile-image)
-*Fully responsive design for access on any device*
+----
 
 <br>
 
@@ -124,7 +113,7 @@ pip install -r requirements.txt
 # Create a .env file with:
 # OPENAI_API_KEY=your_openai_key
 # PINECONE_API_KEY=your_pinecone_key
-# PINECONE_ENVIRONMENT=your_pinecone_env
+
 
 # Run the application
 streamlit run app.py
@@ -133,19 +122,14 @@ streamlit run app.py
 ---
 
 ## 👥 Contributors
-- **Your Name** - Lead Developer
-- Special thanks to all contributors and the open-source community
+- **Narendra** - Lead Developer
 
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 ## 📞 Contact
 For questions or suggestions, feel free to reach out:
-- **Email:** your.email@example.com
+- **Email:** narendrabapanapalle26@gmail.com
 - **GitHub:** [@yourusername](https://github.com/yourusername)
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
 
