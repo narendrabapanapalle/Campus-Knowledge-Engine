@@ -6,14 +6,11 @@
 Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend and AI processing**, along with **Pinecone for vector embeddings** and **SQLite for document storage**, **Campus Knowledge Engine ensures accuracy, efficiency, and 24/7 availability**.
 <br>
 
----
-
-
+----
 ----
 <br>
 
-[Dashboard Page][WhatsApp Image 2025-09-22 at 22 51 16_b3dcff3b](https://github.com/user-attachments/assets/5e4b5601-0559-4e1b-be10-b226506197e0)
-
+![Dashboard Page](placeholder-dashboard-image)
 
 ---
 
