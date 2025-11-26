@@ -7,9 +7,7 @@ Built with **Python, Streamlit, LangChain, and OpenAI API** for the **frontend a
 <br>
 
 ---
-## 🌐 Live Website
-🚀 **Experience Campus Knowledge Engine live!**
-- **🔗 Live Website:** [Campus Knowledge Engine Live](#)
+
 
 ----
 <br>
